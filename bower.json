@@ -1,0 +1,25 @@
+{
+  "name": "Comp397 stuff",
+  "authors": [
+    "MiGFiD <migifidi@gmail.com>"
+  ],
+  "description": "Boiler Plate for Comp397",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2",
+    "tween.js": "tweenjs#^16.3.4",
+    "preloadjs": "*",
+    "SoundJS": "^0.6.2",
+    "TweenJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
+  }
+}
